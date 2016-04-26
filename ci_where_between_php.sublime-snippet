@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+\$this->aco->where( '${1:table} BETWEEN '.${2:\$start_date}.' AND '.${2:\$end_date}, NULL, FALSE ); 
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>ac_between</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.php</scope>
+	<description>where `table` BETWEEN</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+\$data_count = \$this->aco->count_all(${1: '${0:my_table}' });
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>ac_count_all</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.php</scope>
+	<description>CI - echo count_all </description>
+</snippet>

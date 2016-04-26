@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+\$data = \$query->row_array();
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>ac_row_array_CI</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.php</scope>
+    <description>return num row array query</description>
+</snippet>
