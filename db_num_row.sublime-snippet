@@ -3,7 +3,7 @@
 \$total = \$query->num_rows();
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-    <tabTrigger>ac_num_row_CI</tabTrigger>
+    <tabTrigger>aco_num_row_CI</tabTrigger>
     <!-- Optional: Set a scope to limit where the snippet will trigger -->
     <scope>source.php</scope>
     <description>return num row query</description>

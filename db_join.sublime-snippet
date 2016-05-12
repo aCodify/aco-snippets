@@ -3,7 +3,7 @@
 \$this->aco->join('${1:Table}', '${2:table.column} ${3:=} ${4:table.column}'${5:, 'left'});
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-    <tabTrigger>ac_join</tabTrigger>
+    <tabTrigger>aco_join</tabTrigger>
     <!-- Optional: Set a scope to limit where the snippet will trigger -->
     <scope>source.php</scope>
     <description>CI - Active Record DB Join</description>

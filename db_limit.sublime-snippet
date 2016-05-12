@@ -3,7 +3,7 @@
 \$this->aco->limit(${1:0}, ${2:0});
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>ac_limit</tabTrigger>
+	<tabTrigger>aco_limit</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<scope>source.php</scope>
 	<description>CI - limit </description>

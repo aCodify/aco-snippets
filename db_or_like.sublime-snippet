@@ -3,7 +3,7 @@
 \$this->aco->or_like('${1:filed}', \$${2:keyword});
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>ac_or_like</tabTrigger>
+	<tabTrigger>aco_or_like</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<scope>source.php</scope>
 	<description>CI - DB or Like</description>

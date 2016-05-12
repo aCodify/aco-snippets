@@ -3,7 +3,7 @@
 \$this->aco->insert('${1:Table}', \$${2:object});
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>ac_insert</tabTrigger>
+	<tabTrigger>aco_insert</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<scope>source.php</scope>
 	<description>CI - Active Record DB Insert</description>

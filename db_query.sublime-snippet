@@ -3,7 +3,7 @@
 \$query = \$this->aco->query('SELECT ${1:*} FROM ${2:my_table}');
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>ac_query</tabTrigger>
+	<tabTrigger>aco_query</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<scope>source.php</scope>
 	<description>CI - Active Query</description>

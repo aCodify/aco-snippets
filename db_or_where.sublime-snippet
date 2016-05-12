@@ -3,7 +3,7 @@
 \$this->aco->or_where( '${1:Table}', \$${2:String} );
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>ac_or_where</tabTrigger>
+	<tabTrigger>aco_or_where</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<scope>source.php</scope>
 	<description>CI - Active Record DB or where</description>

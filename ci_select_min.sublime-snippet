@@ -3,7 +3,7 @@
 \$this->aco->select_min( '${1:field}' );
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>ac_select_min</tabTrigger>
+	<tabTrigger>aco_select_min</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<scope>source.php</scope>
 	<description>CI - Active Record DB Select min</description>

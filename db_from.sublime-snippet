@@ -3,7 +3,7 @@
 \$this->aco->from('${1:Table}');
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-    <tabTrigger>ac_from</tabTrigger>
+    <tabTrigger>aco_from</tabTrigger>
     <!-- Optional: Set a scope to limit where the snippet will trigger -->
     <scope>source.php</scope>
     <description>CI - Active Record DB From</description>
